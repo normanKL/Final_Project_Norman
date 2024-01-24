@@ -2,3 +2,10 @@ body {
   margin: 0;
   background-color: rgb(251, 251, 239);
 }
+
+.page-title {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(60, 59, 59);
+}

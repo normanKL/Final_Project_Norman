@@ -3,7 +3,7 @@ import './App.css'
 const App = () => {
 
   return (
-    <div>
+    <div className='page-title'>
       <h1>PetFinder</h1>
     </div>
   )
