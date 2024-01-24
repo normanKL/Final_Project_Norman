@@ -9,3 +9,15 @@ body {
   text-align: center;
   color: rgb(60, 59, 59);
 }
+
+.page-title>button {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 15px;
+  height: 40px;
+  width: 8vW;
+  color: black;
+  background-color: rgb(172, 170, 170);
+  border: 3px solid black;
+  border-radius: 150px;
+}
