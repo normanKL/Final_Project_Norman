@@ -5,19 +5,83 @@ body {
 
 .page-title {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
   color: rgb(60, 59, 59);
+  background-color: darkorange;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
-.page-title>button {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-weight: bolder;
-  font-size: 15px;
-  height: 40px;
-  width: 8vW;
-  color: black;
-  background-color: rgb(172, 170, 170);
-  border: 3px solid black;
-  border-radius: 150px;
+.page-title>img {
+  height: 150px;
+}
+
+.flex-container {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.homepage {
+  background-color: aqua;
+  flex-grow: 0.5;
+  text-align: center;
+  justify-content: space-around;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-width: 300px;
+  max-width: 300px;
+  padding: 0px 10px 0px 10px;
+}
+
+.introduction {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.introduction>img {
+  height: 200px;
+  width: 250px;
+}
+
+.introduction>p {
+  font-size: 12px;
+}
+
+.statistic {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-bottom: 20px;
+}
+
+.introduction-buttons {
+  padding-bottom: 30px;
+}
+
+.array {
+  flex-grow: 8;
+  display: flex;
+  flex-direction: column;
+}
+
+.adoption-title {
+  background-color: rgb(198, 242, 204);
+  font-size: 25px;
+  text-align: center;
+  min-height: 100px;
+  max-height: 100px;
+  justify-content: space-around;
+
 }
