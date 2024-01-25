@@ -88,6 +88,7 @@ body {
   background-color: rgb(252, 252, 242);
   padding: 5px 10px 5px 10px;
   border: 2px solid rgb(174, 173, 173);
+  border-radius: 15px;
 }
 
 .contacts {
@@ -126,17 +127,27 @@ body {
   color: rgb(76, 74, 74);
   font-size: 25px;
   text-align: center;
-  min-height: 80px;
-  max-height: 80px;
+  min-height: 150px;
+  max-height: 150px;
   padding-bottom: 10px;
   justify-content: space-around;
-
+  background-image: url(https://img.freepik.com/premium-vector/heads-dogs-cats-pets-pattern_24877-23263.jpg);
 }
 
-.adoption-title>h4 {
-  padding: 0px 0px 0px 0px;
-  margin: 10px 0px 0px 0px;
-  font-size: 40px;
+
+.adoption-title>button {
+  padding: 10px 10px 10px 10px;
+  margin: 20px 0px 10px 0px;
+  font-size: 30px;
+  border-radius: 15px;
+  font-family: Codystar,cursive;
+  color: #f8f6ef;
+  font-weight: 500;
+  font-size: 5vh;
+  border: 5px dotted rgb(231, 236, 249);
+  border-radius: 15px;
+  padding: 0 25px;
+  background-color: rgb(6, 244, 97);
 }
 
 .adoption-title>p {
