@@ -18,15 +18,11 @@ const App = () => {
       <div className='homepage'>
         <div className='introduction'>
         <h4>About Hugo Animal Welfare Society</h4>
-        <img src='https://icma.org/sites/default/files/3218_Animal%20shelter.JPG' alt='our shelter'/>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <img src='https://www.barossamag.com/wp-content/uploads/2019/06/PetsWinter19-1.jpg' alt='our shelter'/>
+        <p>Hugo Anima  l Welfare Society is a non-profit animal shelter in Seri Kembangan that has been in operation since 2010. We receive the surrender of unwanted dogs and cats which we will vaccinate, deworm, neuter/spay, and put up for adoption. Currently, there are over 500 dogs and 450 cats under the care of the shelter. The shelter and all costs involved in running it are entirely funded by the generous donations of the public as well as proceeds from charitable events. Our team consists of four office staff, a number of part-time veterinarians, two vet assistant, seven kennel workers, and one driver. We are a registered Society under the Registry of Societies of Malaysia that is led by an elected committee.</p>
+        <p>Hugo Animal Welfare Society accepts unwanted pets and stray animals – puppies, adult dogs, kittens and adult cats. We also have hundreds of animals waiting for a forever home.</p>
         </div>
-        <div className='statistic'>
-          <h5>Homeless</h5>
-          <p>26,952</p>
-          <h5>Happy</h5>
-          <p>71,771</p>
-        </div>
+
         <div className='introduction-buttons'>
           <h3>Donate & Save Lives</h3>
           <p>Help more than 26,000 rescuers & shelters to save animals!</p>
@@ -34,8 +30,9 @@ const App = () => {
         </div>
         <div className='contacts'>
           <h4>Contact Us</h4>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+          <h5>Hugo Animal Welfare Society HQ </h5>
+          <p>No.101, Jalan Sangat Besar, 43300 Seri Kembangan, Selangor</p>
+          <p>Contact Number: 603-123 1234</p>
         </div>
       </div>
 
@@ -47,8 +44,10 @@ const App = () => {
         </div>
 
          <div className='profiles'>
+            <p>
             {petArray.map((pet, index)=> (
               <pet pet={pet} key={pet.id}/>))}
+              </p> 
           </div>
          
         </div>
