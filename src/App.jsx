@@ -1,6 +1,6 @@
 import './App.css'
-import pet from './components/pet'
 import petArray from './pet.json'
+import Pet from "./components/pet"
 
 const App = () => {
 
