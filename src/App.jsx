@@ -1,6 +1,6 @@
 import './App.css'
 import petArray from './pet.json'
-import Pet from "./components/pet"
+import Pet from './components/pet'
 
 const App = () => {
 
@@ -44,12 +44,13 @@ const App = () => {
 
         <div className='adoption-title'>
         <h4>Adopt a pet</h4>
-
         </div>
-          <p className='profile-array'>
+
+         <div className='profiles'>
             {petArray.map((pet, index)=> (
               <pet pet={pet} key={pet.id}/>))}
-          </p>
+          </div>
+         
         </div>
 
     </div>
