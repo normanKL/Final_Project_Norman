@@ -1,0 +1,69 @@
+[
+    { 
+      "id": 100123,
+      "type": "Cat",
+      "pet_name": "Meow Meow",
+      "sex":"Female",
+      "age": "2 Years",
+      "spayed": "Yes",
+      "vaccinated": "Yes",
+      "dewormed": "Yes",
+      "condition": "Healthy",
+      "body": "Medium",
+      "location": "Kulai, Johor",
+      "posted": "25 Jan 2024",
+      "adoption_fee": "RM 150",
+      "image": "https://www.petfinder.my/photo/pet/1318/131834-589435-l.jpg",
+      "breed": [
+        {
+          "id": 16,
+          "name": "Domestic Medium Hair"
+        }
+      ]
+    },
+    { 
+        "id": 100200,
+        "type": "Dog",
+        "pet_name": "Happy",
+        "sex":"Female",
+        "age": "9 Months",
+        "spayed": "No",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Small",
+        "location": "Mambau, Negeri sembilan",
+        "posted": "25 Jan 2024",
+        "adoption_fee": "RM 50",
+        "image": "https://www.petfinder.my/photo/pet/1296/129661-584009-l.jpg",
+        "breed": [
+          {
+            "id": 1,
+            "name": "Mixed Breed"
+          }
+        ]
+      },
+    {
+        "id": 100288,
+        "type": "Dog",
+        "pet_name": "Handsome",
+        "sex":"Male",
+        "age": "4 Months",
+        "spayed": "No",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Seri Kembangan, Selangor",
+        "posted": "1 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1312/131237-589398-l.jpg",
+        "breed": [
+          {
+            "id": 1,
+            "name": "Mixed Breed"
+          }
+        ]
+    
+    }
+]

@@ -1,4 +1,6 @@
 import './App.css'
+import pet from './components/pet'
+import petArray from './pet.json'
 
 const App = () => {
 
@@ -43,10 +45,8 @@ const App = () => {
         <div className='adoption-title'>
         <h4>Adopt a pet</h4>
         </div>
-        <div>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-        </div>
-      </div>
+          <p>lalala</p>
+       </div>
 
     </div>
 
