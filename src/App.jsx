@@ -41,7 +41,8 @@ const App = () => {
       <div className='array'>
 
         <div className='adoption-title'>
-        <h4>Adopt a pet</h4>
+        <h4>Adoption Centre</h4>
+        <p>Give Them A Loving Home</p>
         </div>
 
          <div className='profiles'>
