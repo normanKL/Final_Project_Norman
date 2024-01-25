@@ -47,7 +47,7 @@ const App = () => {
          <div className='profiles'>
             <p>
             {petArray.map((pet, index)=> (
-              <Pet pet={pet} />))}
+              <Pet pet={pet} key={pet.id} />))}
             </p> 
           </div>
          

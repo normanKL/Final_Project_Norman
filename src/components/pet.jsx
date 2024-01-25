@@ -5,7 +5,7 @@ const pet = (props) => {
 
     return (
     <div className='pet-profile'>
-        <img src={props.breed.image} alt="image"/>
+        <img src={props.pet.image} alt="image"/>
         <h4>My name is </h4>
         <h3>{props.pet.pet_name}</h3>
         

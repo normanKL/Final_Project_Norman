@@ -4,7 +4,7 @@ const breed = (props) => {
 
     switch (props.breed.name) {
         case 'Domestic Medium Hair':
-            colorVariable = 'cornsilk'
+            colorVariable = 'cyan'
         break
         case 'Mixed Breed':
             colorVariable = 'salmon'
