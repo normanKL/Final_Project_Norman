@@ -2,6 +2,7 @@ import './App.css'
 import petArray from './pet.json'
 import Pet from './components/pet'
 
+
 const App = () => {
 
   return (
@@ -47,7 +48,7 @@ const App = () => {
             <p>
             {petArray.map((pet, index)=> (
               <pet pet={pet} key={pet.id}/>))}
-              </p> 
+            </p> 
           </div>
          
         </div>
