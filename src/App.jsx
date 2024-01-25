@@ -11,7 +11,6 @@ const App = () => {
       <div></div>
       <img src='https://cdn-icons-png.flaticon.com/512/8454/8454627.png' alt='logo'/>
       <h1>Hugo Animal Welfare Society</h1>
-     {/* <button>Donation</button> */}
     </div>
 
     <div className='flex-container'>
@@ -42,11 +41,16 @@ const App = () => {
 
   
       <div className='array'>
+
         <div className='adoption-title'>
         <h4>Adopt a pet</h4>
+
         </div>
-          <p>lalala</p>
-       </div>
+          <p className='profile-array'>
+            {petArray.map((pet, index)=> (
+              <pet pet={pet} key={pet.id}/>))}
+          </p>
+        </div>
 
     </div>
 
