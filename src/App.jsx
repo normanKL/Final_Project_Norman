@@ -17,7 +17,7 @@ const App = () => {
 
       <div className='homepage'>
         <div className='introduction'>
-        <h4>Introduction</h4>
+        <h4>About Hugo Animal Welfare Society</h4>
         <img src='https://icma.org/sites/default/files/3218_Animal%20shelter.JPG' alt='our shelter'/>
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
         </div>
@@ -28,9 +28,9 @@ const App = () => {
           <p>71,771</p>
         </div>
         <div className='introduction-buttons'>
-          <h4>Donate & Save Lives</h4>
+          <h3>Donate & Save Lives</h3>
           <p>Help more than 26,000 rescuers & shelters to save animals!</p>
-          <button>Donation Button 1</button>
+          <button>Donate Now!</button>
         </div>
         <div className='contacts'>
           <h4>Contact Us</h4>

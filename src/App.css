@@ -39,7 +39,8 @@ body {
   align-items: stretch;
   min-width: 300px;
   max-width: 300px;
-  padding: 0px 10px 0px 10px;
+  padding: 0px 15px 0px 15px;
+  color: rgb(66, 66, 66);
 }
 
 .introduction {
@@ -57,7 +58,12 @@ body {
 }
 
 .introduction>p {
-  font-size: 12px;
+  font-size: 13px;
+}
+
+.introduction>h4 {
+  font-size: 18px;
+  padding: 10px 0px 5px 0px;
 }
 
 .statistic {
@@ -69,6 +75,19 @@ body {
 
 .introduction-buttons {
   padding-bottom: 30px;
+  border: 4px solid rgb(253, 253, 255);
+  padding: 0px 10px 25px 10px;
+  color: beige;
+  background-image: url(https://img.freepik.com/free-vector/gradient-dynamic-blue-lines-background_23-2148995756.jpg?size=626&ext=jpg&ga=GA1.2.1165541157.1706153647&semt=ais);
+}
+
+.introduction-buttons>button {
+  font-size: 15px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: rgb(67, 67, 67);
+  background-color: rgb(252, 252, 242);
+  padding: 5px 10px 5px 10px;
+  border: 2px solid rgb(174, 173, 173);
 }
 
 .array {
