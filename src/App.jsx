@@ -42,7 +42,6 @@ const App = () => {
 
         <div className='adoption-title'>
         <button>Adoption Centre</button>
-        <p>Give Them A Loving Home</p>
         </div>
 
          <div className='profiles'>
