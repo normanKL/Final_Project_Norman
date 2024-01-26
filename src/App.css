@@ -27,21 +27,23 @@ body {
 .flex-container {
   display:flex;
   flex-direction: row;
-  justify-content: space-around;
-  align-items: stretch;
+  justify-content:start;
+  align-items: start;
 }
 
 .homepage {
   background-image: url(https://img.freepik.com/free-vector/hand-painted-abstract-blue-wallpaper-watercolor_23-2149106510.jpg?size=626&ext=jpg&ga=GA1.2.1165541157.1706153647&semt=ais);
   flex-grow: 0.5;
   text-align: center;
-  justify-content: space-around;
+  justify-content:start;
+  align-items: start;
   display: flex;
   flex-direction: column;
-  align-items: stretch;
-  min-width: 300px;
-  max-width: 300px;
-  padding: 0px 15px 0px 15px;
+  min-width: 340px;
+  max-width: 340px;
+  min-height: 6000px;
+  max-height: 6000px;
+  padding: 0px 20px 0px 20px;
   color: rgb(66, 66, 66);
 }
 
@@ -65,7 +67,7 @@ body {
 }
 
 .introduction>p {
-  font-size: 14px;
+  font-size: 16px;
   padding-top: 5px;
   padding: 10px 10px 0px 10px;
 }
@@ -81,6 +83,16 @@ body {
   padding: 0px 10px 25px 10px;
   color: beige;
   background-image: url(https://img.freepik.com/free-vector/gradient-dynamic-blue-lines-background_23-2148995756.jpg?size=626&ext=jpg&ga=GA1.2.1165541157.1706153647&semt=ais);
+}
+.introduction-buttons>h3 {
+  font-size: 20px;
+  padding: 10px 0px 5px 0px;
+}
+
+.introduction-buttons>p {
+  font-size: 17px;
+  padding-top: 5px;
+  padding: 0px 10px 0px 10px;
 }
 
 .introduction-buttons>button {
@@ -103,19 +115,19 @@ body {
 }
 
 .contacts>h4 {
-  font-size: 18px;
+  font-size: 20px;
   padding: 10px 0px 5px 0px;
   margin: 20px 0px 10px 0px;
 }
 
 .contacts>h5 {
-  font-size: 15;
+  font-size: 17px;
   text-decoration: underline;
   margin: 0px 0px 0px 0px;
 }
 
 .contacts>p {
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .array {
