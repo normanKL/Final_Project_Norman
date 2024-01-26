@@ -88,6 +88,50 @@
         ]
       },
       { 
+        "id": 100125,
+        "type": "Cat",
+        "pet_name": "Mimi",
+        "sex":"Female",
+        "age": "1 Year 4 Months",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Ipoh, Perak",
+        "posted": "23 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1317/131764-589622-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
+        "id": 100126,
+        "type": "Cat",
+        "pet_name": "Oren",
+        "sex":"Female",
+        "age": "2 Months",
+        "spayed": "No",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Gergetown, Penang",
+        "posted": "22 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1318/131852-589486-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
         "id": 100202,
         "type": "Dog",
         "pet_name": "Coffee",
@@ -106,6 +150,28 @@
           {
             "id": 4,
             "name": "Australia Terrier"
+          }
+        ]
+      },
+      { 
+        "id": 100127,
+        "type": "Cat",
+        "pet_name": "Cuppy",
+        "sex":"Male",
+        "age": "3 Months",
+        "spayed": "No",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Cherating, Pahang",
+        "posted": "21 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1317/131775-589101-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
           }
         ]
       },
