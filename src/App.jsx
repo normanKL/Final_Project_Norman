@@ -44,8 +44,8 @@ const App = () => {
         <button>Adoption Centre</button>
         </div>
 
-         <div className='profiles'>
-            <p>
+         <div>
+            <p className='profiles'>
             {petArray.map((pet, index)=> (
               <Pet pet={pet} key={pet.id} />))}
             </p> 

@@ -4,7 +4,7 @@
       "type": "Cat",
       "pet_name": "Meow Meow",
       "sex":"Female",
-      "age": "2 Years",
+      "age": "5 Months",
       "spayed": "Yes",
       "vaccinated": "Yes",
       "dewormed": "Yes",
@@ -13,11 +13,11 @@
       "location": "Kulai, Johor",
       "posted": "25 Jan 2024",
       "adoption_fee": "RM 150",
-      "image": "https://www.petfinder.my/photo/pet/1318/131834-589435-l.jpg",
+      "image": "https://www.petfinder.my/photo/pet/1318/131878-589614-l.jpg",
       "breed": [
         {
-          "id": 16,
-          "name": "Domestic Medium Hair"
+          "id": 15,
+          "name": "Domestic Short Hair"
         }
       ]
     },
@@ -40,6 +40,72 @@
           {
             "id": 1,
             "name": "Mixed Breed"
+          }
+        ]
+      },
+      { 
+        "id": 100124,
+        "type": "Cat",
+        "pet_name": "Lily",
+        "sex":"Female",
+        "age": "8 Months",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Segamat, Johor",
+        "posted": "25 Jan 2024",
+        "adoption_fee": "RM 50",
+        "image": "https://www.petfinder.my/photo/pet/1316/131645-588224-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
+        "id": 100201,
+        "type": "Dog",
+        "pet_name": "Dodo",
+        "sex":"Female",
+        "age": "3 Years",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Ampang, Kuala Lumpur",
+        "posted": "24 Jan 2024",
+        "adoption_fee": "RM 50",
+        "image": "https://www.petfinder.my/photo/pet/1312/131214-587538-l.jpg",
+        "breed": [
+          {
+            "id": 1,
+            "name": "Mixed Breed"
+          }
+        ]
+      },
+      { 
+        "id": 100202,
+        "type": "Dog",
+        "pet_name": "Coffee",
+        "sex":"Male",
+        "age": "1 Year",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Damansara, Kuala Lumpur",
+        "posted": "23 Jan 2024",
+        "adoption_fee": "RM 500",
+        "image": "https://www.petfinder.my/photo/pet/1305/130519-581194-l.jpg",
+        "breed": [
+          {
+            "id": 4,
+            "name": "Australia Terrier"
           }
         ]
       },

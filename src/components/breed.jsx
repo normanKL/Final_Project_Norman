@@ -12,6 +12,9 @@ const breed = (props) => {
         case 'Domestic Short Hair':
             colorVariable = 'skyblue'
         break
+        case 'Australia Terrier':
+            colorVariable = 'tan'
+        break
     }
 
     return (
