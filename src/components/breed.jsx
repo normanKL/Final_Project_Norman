@@ -15,6 +15,21 @@ const breed = (props) => {
         case 'Australia Terrier':
             colorVariable = 'tan'
         break
+        case 'Husky':
+            colorVariable ='springgreen'
+        break
+        case 'Beagle':
+            colorVariable='slateblue'
+        break
+        case 'Golden Hamster':
+            colorVariable='sandybrown'
+        break
+        case 'Hedgehog':
+            colorVariable='plum'
+        break
+        case 'Golden Retriever':
+            colorVariable='lightpink'
+        break
     }
 
     return (

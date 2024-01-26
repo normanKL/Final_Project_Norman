@@ -44,6 +44,94 @@
         ]
       },
       { 
+        "id": 100280,
+        "type": "Dog",
+        "pet_name": "Elsa",
+        "sex":"Female",
+        "age": "5 Years",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Petaling Jaya, Selangor",
+        "posted": "25 Jan 2024",
+        "adoption_fee": "RM 500",
+        "image": "https://www.petfinder.my/photo/pet/1317/131771-589070-l.jpg",
+        "breed": [
+          {
+            "id": 5,
+            "name": "Husky"
+          }
+        ]
+      },
+      { 
+        "id": 100300,
+        "type": "Hamster",
+        "pet_name": "Boy",
+        "sex":"Male",
+        "age": "1 Month",
+        "spayed": "No",
+        "vaccinated": "No",
+        "dewormed": "No",
+        "condition": "Healthy",
+        "body": "Small",
+        "location": "Kajang, Selangor",
+        "posted": "25 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1318/131809-589266-l.jpg",
+        "breed": [
+          {
+            "id": 27,
+            "name": "Golden Hamster"
+          }
+        ]
+      },
+      { 
+        "id": 100301,
+        "type": "Hedgehog",
+        "pet_name": "Cardi",
+        "sex":"Female",
+        "age": "1 Year",
+        "spayed": "No",
+        "vaccinated": "No",
+        "dewormed": "No",
+        "condition": "Healthy",
+        "body": "Small",
+        "location": "Ampang, Kuala Lumpur",
+        "posted": "25 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1318/131828-589368-l.jpg",
+        "breed": [
+          {
+            "id": 28,
+            "name": "Hedgehog"
+          }
+        ]
+      },
+      { 
+        "id": 100210,
+        "type": "Dog",
+        "pet_name": "Barney",
+        "sex":"Male",
+        "age": "3 Years 4 Months",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Melaka",
+        "posted": "25 Jan 2024",
+        "adoption_fee": "RM 300",
+        "image": "https://www.petfinder.my/photo/pet/1302/130273-579795-l.jpg",
+        "breed": [
+          {
+            "id": 2,
+            "name": "Golden Retriever"
+          }
+        ]
+      },
+      { 
         "id": 100124,
         "type": "Cat",
         "pet_name": "Lily",
@@ -66,6 +154,50 @@
         ]
       },
       { 
+        "id": 100281,
+        "type": "Dog",
+        "pet_name": "Peanut",
+        "sex":"Male",
+        "age": "1 Year",
+        "spayed": "No",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Cheras, Kuala Lumpur",
+        "posted": "25 Jan 2024",
+        "adoption_fee": "RM 450",
+        "image": "https://www.petfinder.my/photo/pet/1318/131815-589300-l.jpg",
+        "breed": [
+          {
+            "id": 6,
+            "name": "Beagle"
+          }
+        ]
+      },
+      { 
+        "id": 100304,
+        "type": "Hamster",
+        "pet_name": "Ting Ting",
+        "sex":"Female",
+        "age": "1 Month",
+        "spayed": "No",
+        "vaccinated": "No",
+        "dewormed": "No",
+        "condition": "Healthy",
+        "body": "Small",
+        "location": "Petaling Jaya, Selangor",
+        "posted": "25 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1314/131453-588297-l.jpg",
+        "breed": [
+          {
+            "id": 27,
+            "name": "Golden Hamster"
+          }
+        ]
+      },
+      { 
         "id": 100201,
         "type": "Dog",
         "pet_name": "Dodo",
@@ -84,6 +216,28 @@
           {
             "id": 1,
             "name": "Mixed Breed"
+          }
+        ]
+      },
+      { 
+        "id": 100302,
+        "type": "Hedgehog",
+        "pet_name": "Boo Boo",
+        "sex":"Male",
+        "age": "3 Years",
+        "spayed": "No",
+        "vaccinated": "No",
+        "dewormed": "No",
+        "condition": "Healthy",
+        "body": "Small",
+        "location": "Ipoh, Perak",
+        "posted": "23 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1278/127898-565990-l.jpg",
+        "breed": [
+          {
+            "id": 28,
+            "name": "Hedgehog"
           }
         ]
       },
@@ -168,6 +322,226 @@
         "posted": "21 Jan 2024",
         "adoption_fee": "Free",
         "image": "https://www.petfinder.my/photo/pet/1317/131775-589101-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
+        "id": 100290,
+        "type": "Dog",
+        "pet_name": "Lady",
+        "sex":"Female",
+        "age": "12 Years",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Kulai, Johor",
+        "posted": "21 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1143/114324-486063-l.jpg",
+        "breed": [
+          {
+            "id": 6,
+            "name": "Beagle"
+          }
+        ]
+      },
+      { 
+        "id": 100305,
+        "type": "Hedgehog",
+        "pet_name": "Bam Bam",
+        "sex":"Female",
+        "age": "3 Years",
+        "spayed": "No",
+        "vaccinated": "No",
+        "dewormed": "No",
+        "condition": "Healthy",
+        "body": "Small",
+        "location": "Gombak, Selangor",
+        "posted": "21 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1161/116103-496005-l.jpg",
+        "breed": [
+          {
+            "id": 28,
+            "name": "Hedgehog"
+          }
+        ]
+      },
+      { 
+        "id": 100131,
+        "type": "Cat",
+        "pet_name": "Big Eyes",
+        "sex":"Female",
+        "age": "1 Year",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Petaling Jaya, Selangor",
+        "posted": "21 Jan 2024",
+        "adoption_fee": "RM 20",
+        "image": "https://www.petfinder.my/photo/pet/1318/131859-589508-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
+        "id": 100211,
+        "type": "Dog",
+        "pet_name": "Milo",
+        "sex":"Male",
+        "age": "5 Years",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Damansara, Kuala Lumpur",
+        "posted": "20 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1310/131066-585102-l.jpg",
+        "breed": [
+          {
+            "id": 1,
+            "name": "Mixed Breed"
+          }
+        ]
+      },
+      { 
+        "id": 100128,
+        "type": "Cat",
+        "pet_name": "Tiger",
+        "sex":"Male",
+        "age": "4 Years",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Ampang, Kuala Lumpur",
+        "posted": "19 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1316/131696-588590-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
+        "id": 100212,
+        "type": "Dog",
+        "pet_name": "Lovely",
+        "sex":"Female",
+        "age": "7 Years",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Cheras, Kuala Lumpur",
+        "posted": "19 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/833/83347-328653-l.jpg",
+        "breed": [
+          {
+            "id": 1,
+            "name": "Mixed Breed"
+          }
+        ]
+      },
+      { 
+        "id": 100129,
+        "type": "Cat",
+        "pet_name": "Luna",
+        "sex":"Female",
+        "age": "3 Years 2 Months",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Subang, Selangor",
+        "posted": "19 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1318/131874-589591-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
+        "id": 100203,
+        "type": "Dog",
+        "pet_name": "Cleo",
+        "sex":"Female",
+        "age": "4 Months",
+        "spayed": "No",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Kuantan, Pahang",
+        "posted": "18 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1315/131550-589317-l.jpg",
+        "breed": [
+          {
+            "id": 1,
+            "name": "Mixed Breed"
+          }
+        ]
+      },
+      { 
+        "id": 100303,
+        "type": "Hedgehog",
+        "pet_name": "Daisy",
+        "sex":"Female",
+        "age": "3 Years 5 Months",
+        "spayed": "No",
+        "vaccinated": "No",
+        "dewormed": "No",
+        "condition": "Healthy",
+        "body": "Small",
+        "location": "Melaka",
+        "posted": "18 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1204/120485-522333-l.jpg",
+        "breed": [
+          {
+            "id": 28,
+            "name": "Hedgehog"
+          }
+        ]
+      },
+      { 
+        "id": 100130,
+        "type": "Cat",
+        "pet_name": "Timmy",
+        "sex":"Male",
+        "age": "10 Months",
+        "spayed": "No",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Cheras, Kuala Lumpur",
+        "posted": "10 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1280/128086-568905-l.jpg",
         "breed": [
           {
             "id": 15,
