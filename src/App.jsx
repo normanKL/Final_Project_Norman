@@ -10,7 +10,6 @@ const App = () => {
 
     <div className='page-title'>
       <div></div>
-      <img src='https://cdn-icons-png.flaticon.com/512/8454/8454627.png' alt='logo'/>
       <h1>Hugo Animal Welfare Society</h1>
     </div>
 
@@ -41,7 +40,9 @@ const App = () => {
       <div className='array'>
 
         <div className='adoption-title'>
+        <img src='https://cdn-icons-png.flaticon.com/512/8454/8454627.png' alt='logo'/>
         <button>Adoption Centre</button>
+        <img src='https://cdn-icons-png.flaticon.com/512/8454/8454627.png' alt='logo'/>
         </div>
 
          <div>

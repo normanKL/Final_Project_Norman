@@ -27,6 +27,7 @@ const pet = (props) => {
             <p className='details'>Spayed/Neutered: {props.pet.spayed}</p>
             <p className='details'>Vaccinated: {props.pet.vaccinated}</p>
             <p className='details'>Dewormed: {props.pet.dewormed}</p>
+            <p className='details'>Location: {props.pet.location}</p>
             <p className='details'>Posted: {props.pet.posted}</p>
         </div>
         }

@@ -528,6 +528,50 @@
         ]
       },
       { 
+        "id": 100133,
+        "type": "Cat",
+        "pet_name": "Boomer",
+        "sex":"Male",
+        "age": "3 Months",
+        "spayed": "No",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Ampang, Kuala Lumpur",
+        "posted": "15 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1312/131290-586098-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
+        "id": 100214,
+        "type": "Dog",
+        "pet_name": "Jaguar",
+        "sex":"Male",
+        "age": "2 Months",
+        "spayed": "No",
+        "vaccinated": "No",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Melaka",
+        "posted": "13 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1310/131089-587809-l.jpg",
+        "breed": [
+          {
+            "id": 1,
+            "name": "Mixed Breed"
+          }
+        ]
+      },
+      { 
         "id": 100130,
         "type": "Cat",
         "pet_name": "Timmy",
