@@ -19,7 +19,7 @@ const breed = (props) => {
             colorVariable ='springgreen'
         break
         case 'Beagle':
-            colorVariable='slateblue'
+            colorVariable='yellow'
         break
         case 'Golden Hamster':
             colorVariable='sandybrown'
@@ -33,7 +33,7 @@ const breed = (props) => {
     }
 
     return (
-        <div className="breed" style={{ backgroundColor: colorVariable, color: '#FFFFFF' }}>
+        <div className="breed" style={{ backgroundColor: colorVariable, color: '#353333' }}>
             {props.breed.name}
         </div>
     )
