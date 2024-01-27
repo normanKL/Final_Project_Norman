@@ -18,7 +18,7 @@ const pet = (props) => {
         <h4 className='pet-intro'>My name is </h4>
         <h3 className='pet-name'>{props.pet.pet_name}</h3>
         
-        {show && 
+       {show &&
         <div className='pet-know'>
             <p className='details-title'>Know More About Me!</p>
             <p className='details'>I am a {props.pet.type}</p>

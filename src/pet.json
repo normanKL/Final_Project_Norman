@@ -220,6 +220,28 @@
         ]
       },
       { 
+        "id": 100134,
+        "type": "Cat",
+        "pet_name": "Baby Girl",
+        "sex":"Female",
+        "age": "3 Months",
+        "spayed": "No",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Sungai Besi, Selangor",
+        "posted": "23 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1318/131822-589344-l.jpg",
+        "breed": [
+          {
+            "id": 15,
+            "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
         "id": 100302,
         "type": "Hedgehog",
         "pet_name": "Boo Boo",
@@ -260,6 +282,28 @@
           {
             "id": 15,
             "name": "Domestic Short Hair"
+          }
+        ]
+      },
+      { 
+        "id": 100291,
+        "type": "Dog",
+        "pet_name": "Cal",
+        "sex":"Male",
+        "age": "2 Years 10 Months",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Kepong, Kuala Lumpur",
+        "posted": "22 Jan 2024",
+        "adoption_fee": "RM 388",
+        "image": "https://www.petfinder.my/photo/pet/804/80461-317446-l.jpg",
+        "breed": [
+          {
+            "id": 5,
+            "name": "Husky"
           }
         ]
       },
@@ -308,6 +352,28 @@
         ]
       },
       { 
+        "id": 100293,
+        "type": "Dog",
+        "pet_name": "Lady",
+        "sex":"Female",
+        "age": "12 Years",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Petaling Jaya, Selangor",
+        "posted": "22 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1143/114324-486063-l.jpg",
+        "breed": [
+          {
+            "id": 6,
+            "name": "Beagle"
+          }
+        ]
+      },
+      { 
         "id": 100127,
         "type": "Cat",
         "pet_name": "Cuppy",
@@ -330,24 +396,24 @@
         ]
       },
       { 
-        "id": 100290,
-        "type": "Dog",
-        "pet_name": "Lady",
+        "id": 100135,
+        "type": "Cat",
+        "pet_name": "Sassy",
         "sex":"Female",
-        "age": "12 Years",
+        "age": "1 Year",
         "spayed": "Yes",
         "vaccinated": "Yes",
         "dewormed": "Yes",
         "condition": "Healthy",
         "body": "Medium",
-        "location": "Kulai, Johor",
+        "location": "Rawang, Selangor",
         "posted": "21 Jan 2024",
         "adoption_fee": "Free",
-        "image": "https://www.petfinder.my/photo/pet/1143/114324-486063-l.jpg",
+        "image": "https://www.petfinder.my/photo/pet/1315/131538-587635-l.jpg",
         "breed": [
           {
-            "id": 6,
-            "name": "Beagle"
+            "id": 15,
+            "name": "Domestic Short Hair"
           }
         ]
       },
@@ -568,6 +634,28 @@
           {
             "id": 1,
             "name": "Mixed Breed"
+          }
+        ]
+      },
+      { 
+        "id": 100290,
+        "type": "Dog",
+        "pet_name": "Lucky",
+        "sex":"Female",
+        "age": "11 Years 3 Months",
+        "spayed": "Yes",
+        "vaccinated": "Yes",
+        "dewormed": "Yes",
+        "condition": "Healthy",
+        "body": "Medium",
+        "location": "Seremban, Negeri Sembilan",
+        "posted": "11 Jan 2024",
+        "adoption_fee": "Free",
+        "image": "https://www.petfinder.my/photo/pet/1210/121081-526184-l.jpg",
+        "breed": [
+          {
+            "id": 5,
+            "name": "Husky"
           }
         ]
       },

@@ -39,8 +39,8 @@ body {
   flex-direction: column;
   min-width: 350px;
   max-width: 350px;
-  min-height: 6000px;
-  max-height: 6000px;
+  min-height: 7000px;
+  max-height: 7000px;
   padding: 0px 20px 0px 20px;
   color: rgb(66, 66, 66);
   background-color: #4dc7f7;
@@ -56,7 +56,7 @@ body {
   align-items: center;
   padding-bottom: 30px;
   border: 4px solid rgb(253, 253, 255);
-  margin: 20px 0px 20px 0px;
+  margin: 40px 0px 20px 0px;
   color: beige;
   margin-left: 5px;
   margin-right: 5px;
