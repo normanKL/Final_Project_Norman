@@ -237,17 +237,34 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 20px;
   font-weight: 700;
-  margin: 10px 0px 0px 0px;
+  margin: 10px 0px 10px 0px;
 }
 
 .pet-know {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 700;
   margin: 15px 0px 0px 0px;
-  padding: 10px 8px 10px 8px;
-  border: 2px double black;
+  padding: 5px 5px 5px 5px;
+  border: 2px groove #4169E1;
   border-radius: 15px;
   background-color: whitesmoke;
-  color: rgb(79, 78, 78);
+  color: rgb(76, 74, 74);
+  max-width: 280px;
+  min-width: 280px;
+}
+
+.details-title {
+  font-size: 16px;
+  font-weight: 900;
+  text-decoration: underline;
+  text-align: center;
+  color: #000080;
+  padding: 0px 0px 0px 0px;
+  margin: 5px 5px 10px 5px;
+}
+
+.details {
+  padding: 0px 0px 0px 0px;
+  margin: 5px 5px 5px 5px;
 }
