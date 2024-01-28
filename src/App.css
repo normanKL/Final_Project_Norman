@@ -70,11 +70,13 @@ body {
 .introduction>p {
   font-size: 16px;
   padding-top: 5px;
-  padding: 10px 10px 0px 10px;
+  padding: 0px 20px 0px 20px;
+  margin: 25px 10px 0px 10px;
+  text-align: start;
 }
 
 .introduction>h4 {
-  font-size: 18px;
+  font-size: 23px;
   padding: 10px 0px 5px 0px;
 }
 
@@ -88,7 +90,7 @@ body {
   margin-right: 5px;
 }
 .introduction-buttons>h3 {
-  font-size: 20px;
+  font-size: 23px;
   padding: 10px 0px 5px 0px;
 }
 
@@ -99,13 +101,65 @@ body {
 }
 
 .introduction-buttons>button {
-  font-size: 15px;
+  font-size: 16px;
   font-family:Georgia, 'Times New Roman', Times, serif;
   color: rgb(67, 67, 67);
   background-color: rgb(252, 252, 242);
-  padding: 5px 10px 5px 10px;
-  border: 2px solid rgb(174, 173, 173);
+  padding: 7px 10px 7px 10px;
+  border: 4px solid rgb(174, 173, 173);
   border-radius: 15px;
+  margin: 15px 0px 10px 0px;
+}
+
+.introduction-buttons>button:hover {
+  font-size: 16px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+  color: rgb(67, 67, 67);
+  background-color: #FFFFE0;
+  padding: 7px 10px 7px 10px;
+  border: 7px solid coral;
+  border-radius: 15px;
+  margin: 15px 0px 10px 0px;
+}
+
+
+.adopted {
+  background-image: url(https://img.freepik.com/free-vector/blue-abstract-background_698452-950.jpg?size=626&ext=jpg&ga=GA1.2.1165541157.1706153647&semt=ais);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 30px;
+  border: 4px solid rgb(253, 253, 255);
+  margin: 25px 0px 0px 0px;
+  color: beige;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.adopted>h3 {
+  font-size: 23px;
+  padding: 10px 0px 0px 0px;
+}
+
+.adopted>img {
+  height: 240px;
+  width: 280px;
+  object-fit: cover;
+  border: 2px solid rgb(225, 228, 238);
+  border-radius: 15px;
+
+}
+
+.adopted>p {
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 500;
+  padding-top: 5px;
+  padding: 0px 20px 10px 20px;
+  margin: 15px 10px 15px 10px;
 }
 
 .contacts {
@@ -114,25 +168,25 @@ body {
   padding: 0px 10px 25px 10px;
   margin: 25px 0px 50px 0px;
   color: beige;
-  background-image: url(https://img.freepik.com/free-vector/gradient-wavy-background_79603-2091.jpg?size=626&ext=jpg&ga=GA1.2.1165541157.1706153647&semt=ais);
+  background-image: url(https://img.freepik.com/free-vector/gradient-dynamic-blue-lines-background_23-2148995756.jpg?size=626&ext=jpg&ga=GA1.2.1165541157.1706153647&semt=ais);
   margin-left: 5px;
   margin-right: 5px;
 }
 
 .contacts>h4 {
-  font-size: 20px;
+  font-size: 23px;
   padding: 10px 0px 5px 0px;
   margin: 20px 0px 10px 0px;
 }
 
 .contacts>h5 {
-  font-size: 17px;
+  font-size: 19px;
   text-decoration: underline;
   margin: 0px 0px 0px 0px;
 }
 
 .contacts>p {
-  font-size: 15px;
+  font-size: 17px;
 }
 
 .array {

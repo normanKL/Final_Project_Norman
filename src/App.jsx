@@ -28,6 +28,21 @@ const App = () => {
           <p>Help more than 26,000 rescuers & shelters to save animals!</p>
           <button>Donate Now!</button>
         </div>
+
+        <div className='adopted'>
+          <h3>We Are Adopted!</h3>
+          <img src='https://www.petfinder.my/photo/pet/1311/131164-585361-l.jpg'/>
+          <p>Milly is rescued from an abandoned house. She is adopted and now living happily with her pet parents in Damansara, Selangor.</p>
+          <img src='https://www.petfinder.my/photo/pet/1316/131624-588118-l.jpg' />
+          <p>Chester is abandoned at our office on Christmas night. He is adopted by a vet and now living happily with all his dog siblings in Seri kembangan, Selangor.</p>
+          <img src='https://www.petfinder.my/photo/pet/1314/131429-586863-l.jpg' />
+          <p>Bun Bun is rescued from her previous abusive owner and she is now adopted by a kind-hearted lady who has a farm house in Melaka.</p>
+          <img src='https://www.petfinder.my/photo/pet/1126/112652-477864-l.jpg' />
+          <p>YoYo, the beautiful boy abandoned by his owner at a wet market, is now adopted and enjoys his life in Kulai, Johor.</p>
+          <img src='https://www.petfinder.my/photo/pet/1163/116377-497801-l.jpg' />
+          <p>Kiki, the Sleeping Beauty, is now adopted by an animal lover in Penang. We will miss you but also really happy for you.</p>
+
+        </div>
         <div className='contacts'>
           <h4>Contact Us</h4>
           <h5>Hugo Animal Welfare Society HQ </h5>
