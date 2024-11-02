@@ -7,16 +7,16 @@ body {
 
 .page-title {
   background-image: url(https://images.squarespace-cdn.com/content/v1/65761f22a042f5708d50b646/fb71c05c-fdc5-4ef3-b3d8-f1d7c1b4f4b4/Product-Hero3.jpg);
-  background:cover;
+  background: cover;
   background-size: cover;
-  background-position:center;
-  background-repeat:repeat-y;
+  background-position: center;
+  background-repeat: repeat-y;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 35px;
+  font-size: 1.9vw;
   text-align: center;
   color: whitesmoke;
-  padding-bottom: 40px;
-  padding-top: 30px;
+  padding-bottom: 2vw;
+  padding-top: 2vw;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -24,23 +24,21 @@ body {
 }
 
 .flex-container {
-  display:flex;
+  display: flex;
   flex-direction: row;
-  justify-content:start;
+  justify-content: start;
   align-items: start;
 }
 
 .homepage {
-  flex-grow: 0.7;
+  flex-grow: 3;
   text-align: center;
-  justify-content:start;
+  justify-content: start;
   align-items: start;
   display: flex;
   flex-direction: column;
-  min-width: 350px;
-  max-width: 350px;
-  min-height: 7000px;
-  max-height: 7000px;
+  width: 30vw;
+  height: auto;
   padding: 0px 20px 0px 20px;
   color: rgb(66, 66, 66);
   background-color: #4dc7f7;
@@ -60,15 +58,17 @@ body {
   color: beige;
   margin-left: 5px;
   margin-right: 5px;
+  width: 23vw;
+  height: auto;
 }
 
 .introduction>img {
-  height: 180px;
-  width: 250px;
+  height: 13vw;
+  width: 18vw;
 }
 
 .introduction>p {
-  font-size: 16px;
+  font-size: 1vw;
   padding-top: 5px;
   padding: 0px 20px 0px 20px;
   margin: 25px 10px 0px 10px;
@@ -76,7 +76,7 @@ body {
 }
 
 .introduction>h4 {
-  font-size: 23px;
+  font-size: 1.5vw;
   padding: 10px 0px 5px 0px;
 }
 
@@ -89,20 +89,21 @@ body {
   margin-left: 5px;
   margin-right: 5px;
 }
+
 .introduction-buttons>h3 {
-  font-size: 23px;
+  font-size: 1.5vw;
   padding: 10px 0px 5px 0px;
 }
 
 .introduction-buttons>p {
-  font-size: 17px;
+  font-size: 1vw;
   padding-top: 5px;
   padding: 0px 10px 0px 10px;
 }
 
 .introduction-buttons>button {
-  font-size: 16px;
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 1vw;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: rgb(67, 67, 67);
   background-color: rgb(252, 252, 242);
   padding: 7px 10px 7px 10px;
@@ -112,8 +113,8 @@ body {
 }
 
 .introduction-buttons>button:hover {
-  font-size: 16px;
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 1vw;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 600;
   color: rgb(67, 67, 67);
   background-color: #FFFFE0;
@@ -140,13 +141,13 @@ body {
 }
 
 .adopted>h3 {
-  font-size: 23px;
+  font-size: 1.5vw;
   padding: 10px 0px 0px 0px;
 }
 
 .adopted>img {
-  height: 240px;
-  width: 280px;
+  height: 13vw;
+  width: 18vw;
   object-fit: cover;
   border: 2px solid rgb(225, 228, 238);
   border-radius: 15px;
@@ -154,12 +155,12 @@ body {
 }
 
 .adopted>p {
-  font-size: 18px;
+  font-size: 1vw;
   font-style: italic;
   font-weight: 500;
   padding-top: 5px;
   padding: 0px 20px 10px 20px;
-  margin: 15px 10px 15px 10px;
+  margin: 15px 10px 20px 10px;
 }
 
 .contacts {
@@ -174,33 +175,42 @@ body {
 }
 
 .contacts>h4 {
-  font-size: 23px;
+  font-size: 1.5vw;
   padding: 10px 0px 5px 0px;
   margin: 20px 0px 10px 0px;
 }
 
 .contacts>h5 {
-  font-size: 19px;
+  font-size: 1.2vw;
   text-decoration: underline;
   margin: 0px 0px 0px 0px;
 }
 
 .contacts>p {
-  font-size: 17px;
+  font-size: 1vw;
 }
 
-.array {
-  flex-grow: 8;
+/* .array {
+  flex-grow: 7;
   display: flex;
   flex-direction: column;
+} */
+
+array-title {
+  display: flex;
+  justify-content: center;
+}
+
+.array-pet {
+  display: flex;
+  justify-content: center;
 }
 
 .adoption-title {
   color: rgb(76, 74, 74);
-  font-size: 35px;
+  font-size: 5vw;
   text-align: center;
-  min-height: 180px;
-  max-height: 180px;
+  height: 10vw;
   padding-top: 10px;
   padding-bottom: 25px;
   justify-content: space-around;
@@ -208,11 +218,12 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  margin-top: 30px;
 }
 
 
 .adoption-title>img {
-  height: 150px;
+  height: 10vw;
   padding-bottom: 15px;
   padding-right: 15px;
   padding-left: 15px;
@@ -221,12 +232,11 @@ body {
 .adoption-title>button {
   padding: 10px 10px 40px 10px;
   margin: 40px 0px 25px 0px;
-  font-size: 50px;
+  font-size: 5vw;
   border-radius: 15px;
-  font-family: Codystar,cursive;
+  font-family: Codystar, cursive;
   color: whitesmoke;
   font-weight: 600;
-  font-size: 5vh;
   border: 15px double rgb(225, 228, 238);
   border-radius: 15px;
   padding: 0 25px;
@@ -236,36 +246,38 @@ body {
 .adoption-title>p {
   padding: 0px 0px 0px 0px;
   margin: 8px 0px 0px 0px;
-  font-size: 20px;
+  font-size: 5vw;
   font-style: italic;
 }
 
 .profiles {
-  margin: 10px 0px 20px 0px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content:flex-start;
+  justify-content: center;
 }
 
 .pet-profile {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
   background-image: url(https://img.freepik.com/free-vector/blue-abstract-background_698452-950.jpg?size=626&ext=jpg&ga=GA1.2.1165541157.1706153647&semt=ais);
-  width: 16vw;
-  padding: 10px;
+  padding: 0vw 1.5vw;
   border: 6px solid whitesmoke;
   border-radius: 15px;
   box-shadow: 10px 10px 5px #1a1a1a;
-  margin: 20px;
-  color: #fff
+  margin: 1vw;
+  color: #fff;
+  width: 18vw;
+  height: 33vw;
 }
 
 .pet-profile>img {
-  width: 15vw;
-  height: 20vw;
+  width: 18vw;
+  height: 22vw;
+  min-width: 10vw;
+  min-height: 11vw;
   object-fit: cover;
   border: 3px solid whitesmoke;
   border-radius: 15px;
@@ -283,61 +295,60 @@ body {
   border: 2px groove white;
   border-radius: 15px;
   align-items: center;
-  justify-content: center
+  justify-content: center;
+
 }
 
 .breed {
-  width: 200px;
-  height: 2vh;
-  margin: 5px;
-  padding: 5px;
+  width: 15vw;
+  height: 3vh;
+  min-width: 3vw;
+  min-height: 1vw;
+  margin: 0.2vw;
+  padding: 0.2vw;
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: 700;
-  font-size: 17px;
+  font-size: 1vw;
   border: 3px solid whitesmoke;
   border-radius: 10px;
 }
 
 .pet-intro {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 20px;
-  font-weight: 700;
-  margin: 12px 0px 0px 0px;
-}
-
-.pet-name {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 25px;
-  font-weight: 800;
-  margin: 10px 0px 10px 0px;
+  padding-top: 0.5vw;
+  margin-top: 0.05vw;
+  display: flex;
+  align-items: center;
+  gap:0.3vw;
+  padding: 0;
+  margin: 0;
+  /* border: 2px dotted white; */
 }
 
 .pet-know {
-  font-size: 15px;
-  font-weight: 700;
-  margin: 15px 0px 0px 0px;
-  padding: 5px 5px 5px 5px;
+  font-size: 1.2vw;
   border: 2px groove #4169E1;
   border-radius: 15px;
   background-color: whitesmoke;
   color: rgb(76, 74, 74);
-  max-width: 280px;
-  min-width: 280px;
+  width: 18vw;
+  height: 30vw;
+  margin-top: 1vw;
 }
 
 .details-title {
-  font-size: 16px;
+  font-size: 1.4vw;
   font-weight: 900;
   text-decoration: underline;
   text-align: center;
   color: #000080;
-  padding: 0px 0px 0px 0px;
-  margin: 5px 5px 10px 5px;
+  padding-top: 0.05vw;
+  margin-left: 1.5vw;
 }
 
 .details {
-  padding: 0px 0px 0px 0px;
-  margin: 5px 5px 5px 5px;
+  padding-bottom: 0.02vw;
+  margin-left: 1.5vw;
 }
